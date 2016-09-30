@@ -1,1 +1,4 @@
-include ':app'
+//include ':app'
+
+//http://blog.chengyunfeng.com/?p=1014
+include':statelistanimatordemo'
